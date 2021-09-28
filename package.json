@@ -4,7 +4,7 @@
   "description": "A simple 20 line web scrapper",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.mjs"
   },
   "keywords": [],
   "author": "BrendanLeighton.com",
